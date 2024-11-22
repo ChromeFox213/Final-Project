@@ -16,7 +16,7 @@ I plan to make a cool '2.5D'/3D game that takes place in space! The player fully
 I'm not sure what's best for this project but I intend to start with Three.js and Javascript and see if that works best for me.
 
 
-# Note for professor:
-- I'm pretty excited for this project :)
+## Note for professor:
+- Please let me know what you think! I'm fully open to any suggestions or changes for this project as you see fit!
 
 
