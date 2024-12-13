@@ -19,4 +19,5 @@ I'm not sure what's best for this project but I intend to start with Three.js an
 ## Note for professor:
 - Please let me know what you think! I'm fully open to any suggestions or changes for this project as you see fit!
 
-
+## Google Slides Presentation Link:
+https://docs.google.com/presentation/d/1NAMBQyPY1C2pYuHdIdzTKPaZWXQOZuri4Fe-upzbxf4/edit?usp=sharingS
